@@ -1,0 +1,13 @@
+pandas==1.4.2
+DateTime==4.7
+numpy==1.22.3
+streamlit==1.12.2
+plotly==5.10.0
+prophet==1.1.1
+pandas-datareader==0.10.0
+requests==2.27.1
+beautifulsoup4==4.11.1
+transformers==4.21.3
+sentencepiece==0.1.97
+tensorflow==2.8.0
+torch==1.11.0
