@@ -2,7 +2,7 @@
   <img src="utils/logo.png" alt="logo" width="128"/>
   <h1>Financial Researcher</h1>
 
-[Financial Researcher - Hugging Face Space](https://huggingface.co/spaces/r1391819/financial-researcher)
+[Hugging Face Space](https://huggingface.co/spaces/r1391819/financial-researcher)
 
 </div>
 
@@ -10,26 +10,23 @@
 
 ## About
 
+## Features
+- Scrape, auto summarise and calculate sentiment for stock and crypto news
+- A simple dashboard for stock trend forecasting and analysis
+
 ## Stack
 
-## Project structure
-
-```
-$PROJECT_ROOT
-│
-├──
-│
-├──
-│
-└─┬
-  │
-  │
-  ├──
-  │
-  └──
-```
+- Beautiful Soup/Requests
+- Hugging Face
+- Streamlit
+- Prophet
 
 ## Roadmap
+
+- [x] Scrape data from Google News and Yahoo Finance using Beautiful Soup
+- [x] Summarise and calculate sentiment for financial news using fine-tuned Transformers models
+- [x] Dashboard for financial analysis
+- [x] Stock trend forecasting
 
 ## Highlights
 
@@ -38,45 +35,28 @@ $PROJECT_ROOT
 </div>
 
 ## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/1391819/financial-researcher
    ```
-3. Install NPM packages
+2. Install all the required libraries
    ```sh
-   npm install
+   pip install -r requirements.txt
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = "ENTER YOUR API";
+3. Run the streamlit app
+   ```sh
+   streamlit run app.py
    ```
-
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-## License
-
-[MIT](https://github.com/1391819/MA-seek/blob/main/License.txt) © [Roberto Nacu](https://github.com/1391819)
 
 ## Attributions
 
-- <a href="https://www.flaticon.com/free-icons/stock-market" title="stock market icons">Stock market icons created by Talha Dogar - Flaticon</a>
+- <a href="https://www.flaticon.com/free-icons/stock-market" title="stock market icons">Stock market icons created by Umeicon - Flaticon</a>
+
+## License
+
+[MIT](https://github.com/1391819/financial-researcher/blob/main/License.txt) © [Roberto Nacu](https://github.com/1391819)
 
 </div>
+
