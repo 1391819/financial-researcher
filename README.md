@@ -19,8 +19,8 @@
 - Streamlit
 - Prophet
 - Fine-tuned Transformers models
-  - (Pegasus)[https://huggingface.co/human-centered-summarization/financial-summarization-pegasus]
-  - (BERT)[https://huggingface.co/ahmedrachid/FinancialBERT-Sentiment-Analysis]
+  - [Pegasus](https://huggingface.co/human-centered-summarization/financial-summarization-pegasus)
+  - [BERT](https://huggingface.co/ahmedrachid/FinancialBERT-Sentiment-Analysis)
 
 ## Roadmap
 
