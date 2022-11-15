@@ -8,8 +8,6 @@
 
 <div align="justify">
 
-## About
-
 ## Features
 - Scrape, auto summarise and calculate sentiment for stock and crypto news
 - A simple dashboard for stock trend forecasting and analysis
