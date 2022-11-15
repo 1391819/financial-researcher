@@ -18,13 +18,16 @@
 - Hugging Face
 - Streamlit
 - Prophet
+- Fine-tuned Transformers models
+  - (Pegasus)[https://huggingface.co/human-centered-summarization/financial-summarization-pegasus]
+  - (BERT)[https://huggingface.co/ahmedrachid/FinancialBERT-Sentiment-Analysis]
 
 ## Roadmap
 
 - [x] Scrape data from Google News and Yahoo Finance using Beautiful Soup
-- [x] Summarise and calculate sentiment for financial news using fine-tuned Transformers models
+- [x] Summarise and calculate sentiment for financial news using fine-tuned Transformers models 
 - [x] Dashboard for financial analysis
-- [x] Stock trend forecasting
+- [x] Stock trend forecasting using Prophet
 
 ## Highlights
 
