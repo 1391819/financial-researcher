@@ -14,13 +14,16 @@
 
 ## Stack
 
-- Beautiful Soup/Requests
+- Requests
+- BeautifulSoup
 - Hugging Face
-- Streamlit
-- Prophet
 - Fine-tuned Transformers models
   - [Pegasus](https://huggingface.co/human-centered-summarization/financial-summarization-pegasus)
   - [BERT](https://huggingface.co/ahmedrachid/FinancialBERT-Sentiment-Analysis)
+- Streamlit
+- Prophet
+- ETL
+
 
 ## Roadmap
 
