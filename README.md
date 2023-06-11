@@ -45,11 +45,7 @@ This project aims to provide a comprehensive solution for financial analysis by 
    ```sh
    git clone https://github.com/1391819/financial-researcher
    ```
-2. Install all the required libraries
-   ```sh
-   pip install -r requirements.txt
-   ```
-3. Run the streamlit app
+2. Install all the required librariesRun the Streamlit app
    ```sh
    streamlit run app.py
    ```
