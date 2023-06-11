@@ -2,8 +2,6 @@
   <img src="utils/logo.png" alt="logo" width="128"/>
   <h1>Financial Researcher</h1>
 
-[Hugging Face Space](https://huggingface.co/spaces/r1391819/financial-researcher)
-
 </div>
 
 <div align="justify">
