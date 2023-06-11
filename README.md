@@ -25,7 +25,6 @@ This project aims to provide a comprehensive solution for financial analysis by 
   - [BERT](https://huggingface.co/ahmedrachid/FinancialBERT-Sentiment-Analysis)
 - Streamlit
 - Prophet
-- ETL
 
 ## Highlights
 
