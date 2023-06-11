@@ -6,6 +6,8 @@
 
 <div align="justify">
 
+This project aims to provide a comprehensive solution for financial analysis by leveraging various tools and technologies. It combines data scraping, natural language processing, sentiment analysis, and stock trend forecasting to offer valuable insights for stock and crypto investments.
+
 ## Features
 - Scrape, auto summarise and calculate sentiment for stock and crypto news
 - A simple dashboard for stock trend forecasting and analysis
