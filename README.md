@@ -11,7 +11,6 @@ This project aims to provide a comprehensive solution for financial analysis by 
 ## Roadmap
 
 - [x]  Scrape data from Google News and Yahoo Finance using Beautiful Soup
-- [x]  Extract, transform, and load (ETL) the scraped financial data for further analysis and processing
 - [x]  Summarise and calculate sentiment for financial news using fine-tuned Transformers models
 - [x]  Design the main dashboard for financial analysis
 - [x]  Implement a stock trend forecasting feature using Prophet
