@@ -6,14 +6,14 @@
 
 <div align="justify">
 
-This project aims to provide a comprehensive solution for financial analysis by leveraging various tools and technologies. It combines data scraping, natural language processing, sentiment analysis, and stock trend forecasting to offer valuable insights for stock and crypto investments.
+This project aims to provide a relatively simple solution to performing financial analysis by leveraging various tools and technologies. It combines data scraping, natural language processing, sentiment analysis, and stock trend forecasting to offer insights for stock and crypto investments.
 
 ## Roadmap
 
-- [x]  Scrape data from Google News and Yahoo Finance using Beautiful Soup
-- [x]  Summarise and calculate sentiment for financial news using fine-tuned Transformers models
-- [x]  Design the main dashboard for financial analysis
-- [x]  Implement a stock trend forecasting feature using Prophet
+- [x]  Scrape data from Google News and Yahoo Finance
+- [x]  Summarise and calculate sentiment using fine-tuned Transformers models (BERT and Pegasus)
+- [x]  Design main dashboard
+- [x]  Implement stock trend forecasting feature
 
 ## Stack
 
