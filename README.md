@@ -10,10 +10,10 @@ This project aims to provide a relatively simple solution to performing financia
 
 ## Roadmap
 
-- [x]  Scrape data from Google News and Yahoo Finance
-- [x]  Summarise and calculate sentiment using fine-tuned Transformers models (BERT and Pegasus)
-- [x]  Design main dashboard
-- [x]  Implement stock trend forecasting feature
+- [x] Scrape data from Google News and Yahoo Finance
+- [x] Perform summarization and sentiment analysis using fine-tuned Transformers models (BERT and Pegasus)
+- [x] Design main dashboard
+- [x] Implement stock trend forecasting functionality
 
 ## Stack
 
