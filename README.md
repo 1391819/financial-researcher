@@ -11,7 +11,8 @@ This project aims to provide a relatively simple solution to performing financia
 ## Roadmap
 
 - [x] Scrape data from Yahoo Finance
-- [x] Perform summarisation and sentiment analysis using fine-tuned Transformers models (BERT and Pegasus)
+- [x] Perform summarisation and sentiment analysis using fine-tuned Transformers models (Pegasus and BERT)
+- [x] Make [Kaggle notebook](https://www.kaggle.com/code/robertonacu/stocks-crypto-researcher/notebook) (showcasing web scraping, summarisation and sentiment analysis) publicly available
 - [x] Design main dashboard
 - [x] Implement stock trend forecasting functionality using Prophet
 
