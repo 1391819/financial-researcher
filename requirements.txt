@@ -1,7 +1,7 @@
 pandas==1.4.2
 DateTime==4.7
 numpy==1.22.3
-streamlit==1.12.2
+streamlit==1.37.0
 plotly==5.10.0
 prophet==1.1.1
 pandas-datareader==0.10.0
