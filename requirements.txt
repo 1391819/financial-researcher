@@ -7,7 +7,7 @@ prophet==1.1.1
 pandas-datareader==0.10.0
 requests==2.32.2
 beautifulsoup4==4.11.1
-transformers==4.38.0
+transformers==4.48.0
 sentencepiece==0.1.97
 tensorflow==2.12.1
 torch==2.2.0
