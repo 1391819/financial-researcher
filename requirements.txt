@@ -10,4 +10,4 @@ beautifulsoup4==4.11.1
 transformers==4.48.0
 sentencepiece==0.1.97
 tensorflow==2.12.1
-torch==2.2.0
+torch==2.6.0
